@@ -1,0 +1,9 @@
+[2025-06-05 10:58:59] [OUVINTE] Escutando na porta 21
+[2025-06-05 10:58:59] [OUVINTE] Escutando na porta 22
+[2025-06-05 10:58:59] [OUVINTE] Escutando na porta 80
+[2025-06-05 11:00:36] Conexão de 127.0.0.1:60504 na porta 21
+[2025-06-05 11:01:24] Conexão encerrada com 127.0.0.1:60504 na porta 21
+[2025-06-05 11:02:15] [OUVINTE] Escutando na porta 21
+[2025-06-05 11:02:15] [OUVINTE] Escutando na porta 22
+[2025-06-05 11:02:15] [OUVINTE] Escutando na porta 80
+[2025-06-05 11:02:24] Conexão de 127.0.0.1:60620 na porta 21
